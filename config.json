@@ -1,6 +1,6 @@
 {
-  "Version": "1.6",
-  "ReleaseNotes": "🗿HUG VPN \n\n📢เปิดระบบใน123\n\n📟ข้อมูลอื่น ๆ กดที่ไอคอน[!]เมนูด่านล่าง",
+  "Version": "1.7",
+  "ReleaseNotes": "🗿HUG VPN \n\n📢เปิดระบบใน 123\n\n📟ข้อมูลอื่น ๆ กดที่ไอคอน[!]เมนูด่านล่าง",
   "ReleaseNotes1": "🔪ข้อมูลข่าวสารจากระบบฯ\n\n📌ทรู | ไม่มีเงื่อนไข \n📱 เชื่อมต่อได้ไม่มีเงื่อนไข\n\n📌ดีเเทค | ไม่มีเงื่อนไข \n📱 เชื่อมต่อได้ไม่มีเงื่อนไข\n\n",
   "Servers": [
     {
@@ -13,7 +13,7 @@
       "ProxyPort": "3128",
       "ServerUser": "",
       "ServerPass": "",
-      "sInfo": "🌞| Internet protects",
+      "sInfo": "🌞| Enhanced protected",
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": "",
