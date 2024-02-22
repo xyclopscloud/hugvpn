@@ -1,5 +1,5 @@
 {
-  "Version": "2.8",
+  "Version": "2.9",
   "ReleaseNotes": "🗿HUG VPN \n\n📢เปิดระบบใน123\n\n📟ข้อมูลอื่น ๆ กดที่ไอคอน[!]เมนูด่านล่าง",
   "ReleaseNotes1": "🔪ข้อมูลข่าวสารจากระบบฯ\n\n📌ทรู | ไม่มีเงื่อนไข \n📱 เชื่อมต่อได้ไม่มีเงื่อนไข\n",
   "Servers": [
@@ -16,6 +16,24 @@
       "sInfo": "🧭| Internet protects personal",
       "Slowchave": "3144ea5fe0290eb1452686feb22bf672894fbe722a692ad60437cd9e41d6b418",
       "Nameserver": "ns1.hugvpn.net",
+      "servermessage": "",
+      "ServerUDP": "",
+      "ShanJson": "",
+      "tunnelT": "SSH"
+    },
+    {
+      "Name": "DT🆇C-SLOW-FREE",
+      "FLAG": "th",
+      "ServerIP": "127.0.0.1",
+      "ProxyIP": "",
+      "ServerPort": "22",
+      "SSLPort": "",
+      "ProxyPort": "",
+      "ServerUser": "trial907",
+      "ServerPass": "trial866",
+      "sInfo": "💀| ใช้กับรูปเบบเครือข่าย DT🆇C",
+      "Slowchave": "febfe28b6a5e31d65b9cc66de268bf46ce47bb3975d175f9bf9600619e23e904",
+      "Nameserver": "dns.cepatssh.my.id",
       "servermessage": "",
       "ServerUDP": "",
       "ShanJson": "",
