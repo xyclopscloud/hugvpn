@@ -29,13 +29,13 @@
       "ServerPort": "",
       "SSLPort": "",
       "ProxyPort": "",
-      "ServerUser": "test",
-      "ServerPass": "1234",
+      "ServerUser": "chana",
+      "ServerPass": "2024",
       "sInfo": "🤡| Thailand Safer Internet ",
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": "",
-      "ServerUDP": "84.247.145.154",
+      "ServerUDP": "sg01.xyclops.cloud",
       "ShanJson": "",
       "tunnelT": "UDP"
     }
