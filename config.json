@@ -1,5 +1,5 @@
 {
-  "Version": "3.1",
+  "Version": "3.2",
   "ReleaseNotes": "🗿HUG VPN \n\n📢เปิดระบบใน123\n\n📟ข้อมูลอื่น ๆ กดที่ไอคอน[!]เมนูด่านล่าง",
   "ReleaseNotes1": "🔪ข้อมูลข่าวสารจากระบบฯ\n\n📌ทรู | ไม่มีเงื่อนไข \n📱 เชื่อมต่อได้ไม่มีเงื่อนไข\n",
   "Servers": [
@@ -22,25 +22,46 @@
       "tunnelT": "SSH"
     },
     {
-      "Name": "DT🆇C-SLOW-FREE",
+      "Name": "UDP-TEST-FREE",
       "FLAG": "th",
-      "ServerIP": "127.0.0.1",
+      "ServerIP": "84.247.145.154",
       "ProxyIP": "",
-      "ServerPort": "22",
+      "ServerPort": "",
       "SSLPort": "",
       "ProxyPort": "",
-      "ServerUser": "trial907",
-      "ServerPass": "trial866",
-      "sInfo": "💀| ใช้กับรูปเบบเครือข่าย DT🆇C",
-      "Slowchave": "febfe28b6a5e31d65b9cc66de268bf46ce47bb3975d175f9bf9600619e23e904",
-      "Nameserver": "dns.cepatssh.my.id",
+      "ServerUser": "test",
+      "ServerPass": "1234",
+      "sInfo": "🤡| Thailand Safer Internet ",
+      "Slowchave": "",
+      "Nameserver": "",
       "servermessage": "",
-      "ServerUDP": "",
+      "ServerUDP": "84.247.145.154",
       "ShanJson": "",
-      "tunnelT": "SSH"
+      "tunnelT": "UDP"
     }
   ],
   "Networks": [
+    {
+      "Name": "ANY NETWORK",
+      "Payload": "Anywhere",
+      "SNI": "",
+      "pInfo": "🅽oProMo | ไม่ต้องมีเงื่อนไข",
+      "Slowdns": "",
+      "WebProxy": "",
+      "WebPort": "",
+      "udpResolver": "8888",
+      "isSSL": "false",
+      "isPayloadSSL": "false",
+      "isSlow": "false",
+      "isInject": "false",
+      "isDirect": "false",
+      "isWeb": "false",
+      "isUDP": "true",
+      "isV2ray": "false",
+      "isReverse": "false",
+      "oxProtocal": "",
+      "oxPort": ""
+    },
     {
       "Name": "DIRECT",
       "Payload": "",
